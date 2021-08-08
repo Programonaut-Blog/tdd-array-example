@@ -1,0 +1,17 @@
+{
+  "name": "tdd-rm-second",
+  "version": "1.0.0",
+  "description": "Will remove every second element of array",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll --verbose"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.0.6"
+  },
+  "devDependencies": {
+    "@types/jest": "^26.0.24"
+  }
+}
