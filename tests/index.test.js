@@ -1,3 +1,5 @@
+const { removeEverySecond } = require( '../index.js')
+
 describe('My array', () => {
     let array = ['hello', 'world', 'its', 'dark', 'today']
     
